@@ -8,7 +8,7 @@ Instalar la version Stable de Node.JS in:
 * https://nodejs.org/
 ```
 
-## NodeJS (test init)
+### NodeJS (test init)
 
 Checkear y actualizar node y NPM:
 * **versión node** `$ node -v`
